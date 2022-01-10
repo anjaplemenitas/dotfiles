@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = anja.plemenitas@gmail.com
+	name = Anja Plemenitas
